@@ -234,10 +234,10 @@ public class Connexion extends JFrame {
 				
 				Inscription inscription = new Inscription();
 				frame.dispose(); // Fermer la fenêtre de connexion
-				inscription.afficher(); // Utiliser la nouvelle méthode
+				inscription.afficher(); // Utiliser la nouvelle méthode pour afficher la page d'inscription
 			
 				
-				
+	
 				
 			}
 			
